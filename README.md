@@ -5,7 +5,7 @@ I have been tasked to complete an audit of a local election for a Colorado Board
 
 To complete this audit/project I have done the following:
 1. Calculated the total number of votes casted.
-2. Complied a complete list of candidates who received votes.
+2. Compiled a complete list of candidates who received votes.
 3. Cacluated the total number of votes each candidate received.
 4. Calculated kthe percentage of votes eached candidate received.
 5. Determined the winner of the electioned based on the popular vote.
@@ -14,9 +14,9 @@ To complete this audit/project I have done the following:
 - Data Source: election_results.csv
 - Software: Python 3.7.6
 
-## Summary
+## Audit Election Summary
 The analysis of the election will show that:
-- There were 369,711 votes casted in the election.
+- There were 369,711 total votes casted in the election.
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
@@ -26,8 +26,26 @@ The analysis of the election will show that:
   - Diana DeGette received 73.8% of the votes and 272,892 total votes.
   - Raymon Anthony Doane received 3.1% of the votes and 11,606 total votes.
 - The winner of the election was:
-  - Diana Degette, who received 73.8% of the vote and 272,892 of the total votes.
+  - Diana DeGette, who received 73.8% of the vote and 272,892 of the total votes.
 
-## Challenge Overview
+In addition to data listed above, I have written additional code to provide a further breakdown of voting data based on county information.
 
-## Challenege Summary
+This additional analysis will show that:
+- The counties of the elecetion are:
+  - Jefferson County
+  - Dener County
+  - Arapahoe County
+- The county results were:
+  - Jefferson County received 10.5% of the votes and 38,855 total votes.
+  - Denver County received 82.8% of the votes and 306,055 total votes.
+  - Arapahoe County received 6.7% of the votes and 24,801 total votes.
+- The County with the largest number of votes: Denver County
+
+## Election-Audit Summary
+
+In summary, you can see the which candidate won the election (based on the popular vote) and which county contained the most votes.
+
+The code written to complete this election audit is interchangable and can be used for other counties within the state as well as other states. 
+
+Below
+
