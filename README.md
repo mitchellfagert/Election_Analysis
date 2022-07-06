@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-I have been tasked to complete an audit of a local election for a Colorado Board of Elections employee.
+I have been tasked to complete an audit of a local election for a Colorado Board of Elections employee. To complete this task I have used the programmati tools of Python, Visual Studio Code, and Git.
 
 To complete this audit/project I have done the following:
 1. Calculated the total number of votes casted.
@@ -12,7 +12,7 @@ To complete this audit/project I have done the following:
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.7.6
+- Software: Python 3.7.6, Visual Studio Code, Git
 
 ## Audit Election Summary
 The analysis of the election will show that:
@@ -41,11 +41,15 @@ This additional analysis will show that:
   - Arapahoe County received 6.7% of the votes and 24,801 total votes.
 - The County with the largest number of votes: Denver County
 
+Below is the output of the election audit findings which is printed into a text file.
+
+![Election_Audit_Results.png](C:\Users\mitch\OneDrive\Desktop\Data Analytics Bootcamp\Classwork\Election_Analysis\analysis\Election_Audit_Results.png)
+
 ## Election-Audit Summary
 
-In summary, you can see the which candidate won the election (based on the popular vote) and which county contained the most votes.
+In summary, you can see the which candidate won the election (based on the popular vote) and which county contained the most votes. 
 
-The code written to complete this election audit is interchangable and can be used for other counties within the state as well as other states. 
+The code written to complete this election audit is interchangable and can be used for other counties within the state as well as other states. It is imperative that to use this code the resources
 
 Below
 
