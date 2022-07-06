@@ -41,15 +41,17 @@ This additional analysis will show that:
   - Arapahoe County received 6.7% of the votes and 24,801 total votes.
 - The County with the largest number of votes: Denver County
 
-Below is the output of the election audit findings which is printed into a text file.
+Below is the output of the election audit findings which is produvced by the code and printed into a text file.
 
-![Election_Audit_Results.png](C:\Users\mitch\OneDrive\Desktop\Data Analytics Bootcamp\Classwork\Election_Analysis\analysis\Election_Audit_Results.png)
+![Election_Audit_Results](https://user-images.githubusercontent.com/107579508/177593520-e262cb4b-1fac-4165-83df-b373912b8c8b.png)
 
 ## Election-Audit Summary
 
 In summary, you can see the which candidate won the election (based on the popular vote) and which county contained the most votes. 
 
-The code written to complete this election audit is interchangable and can be used for other counties within the state as well as other states. It is imperative that to use this code the resources
+The code written is flexible and can be applied to other scenarios and counties. In addition, this code does not apply to elections but can be used to analyze other types of funtions such as:
 
-Below
-
+  - Collecting and determining the best company in a given area
+  - collecting and determining the best athlete of a given sport
+  
+Overall this code can read, organize, and breakdown a number of different voting scenarios and shouldn't be limited to just political elections.
