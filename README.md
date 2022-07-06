@@ -1,14 +1,14 @@
 # Election_Analysis
 
 ## Project Overview
-I have been tasked to complete an audit of a local election for a Colorado Board of Elections employee. To complete this task I have used the programmati tools of Python, Visual Studio Code, and Git.
+I have been tasked to assist and complete an audit of a local election for the Colorado Board of Elections. To complete this task I have used the programmatic tools of Python, Visual Studio Code, and Git.
 
 To complete this audit/project I have done the following:
 1. Calculated the total number of votes casted.
 2. Compiled a complete list of candidates who received votes.
 3. Cacluated the total number of votes each candidate received.
-4. Calculated kthe percentage of votes eached candidate received.
-5. Determined the winner of the electioned based on the popular vote.
+4. Calculated the percentage of votes each candidate received.
+5. Determined the winner of the election based on the popular vote.
 
 ## Resources
 - Data Source: election_results.csv
@@ -28,7 +28,7 @@ The analysis of the election will show that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 of the total votes.
 
-In addition to data listed above, I have written additional code to provide a further breakdown of voting data based on county information.
+In addition to data listed above, I have written additional code to further provide a breakdown of voting data based on county information.
 
 This additional analysis will show that:
 - The counties of the elecetion are:
@@ -41,17 +41,18 @@ This additional analysis will show that:
   - Arapahoe County received 6.7% of the votes and 24,801 total votes.
 - The County with the largest number of votes: Denver County
 
-Below is the output of the election audit findings which is produvced by the code and printed into a text file.
+Below is the output of the election audit findings which is produced by the python code and printed into a text file.
 
 ![Election_Audit_Results](https://user-images.githubusercontent.com/107579508/177593520-e262cb4b-1fac-4165-83df-b373912b8c8b.png)
 
 ## Election-Audit Summary
 
-In summary, you can see the which candidate won the election (based on the popular vote) and which county contained the most votes. 
+In summary, you can see the which candidate won the election (based on the popular vote) and which county contained the most votes. This code is proven to be immensely useful, reading and analyzing thousands of rows of data contained in a CSV file and saving countless hours of manual arithmetic and human error.
 
-The code written is flexible and can be applied to other scenarios and counties. In addition, this code does not apply to elections but can be used to analyze other types of funtions such as:
+In addition, this code is flexible and can be applied to other scenarios and not just political elections. This code can read and analyze a multitue of scenarios such as:
 
-  - Collecting and determining the best company in a given area
-  - collecting and determining the best athlete of a given sport
+  - Reading and determining the most popular company in a given area
+  - Reading and determining the most popular athlete of a given sport
+  - Reading and determining the most popular band of a given time period
   
 Overall this code can read, organize, and breakdown a number of different voting scenarios and shouldn't be limited to just political elections.
